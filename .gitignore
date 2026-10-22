@@ -1,0 +1,20 @@
+.DS_Store
+.venv/
+node_modules/
+dist/
+.local/
+.cache/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+8769f5d3-8762-4327-90d8-16c88ab5399d/
+research/
+*.log
+release/
+
+
+# Local design/research working notes
+.21st/
